@@ -26,3 +26,4 @@ I am a self-taught full-stack developer with 8-years of experience in web develo
 * **Age**: 28
 * **Living in**: Rio de janeiro, Brazil
 * **Stack**: Ruby - Rails - React - PostgreeSQL
+* **Studying**: Elixir,  Ocaml and GraphQL

@@ -19,10 +19,10 @@ I am a self-taught full-stack developer with 8-years of experience in web develo
 <h3> :rocket: My Skills: </h3>
 
   ### Backend
-  ![Ruby](https://img.shields.io/badge/-ruby-red?style=flat&logo=ruby)
-  ![Ruby on Rails](https://img.shields.io/badge/-ruby%20on%20rails-red?style=flat&logo=ruby-on-rails)
-  ![Elixir](https://img.shields.io/badge/-elixir-blueviolet?style=flat&logo=elixir)
-  ![Phoenix](https://img.shields.io/badge/-phoenix-important?style=flat&logo=elixir)
+  ![Ruby](https://img.shields.io/badge/-ruby-333333?style=flat&logo=ruby)
+  ![Ruby on Rails](https://img.shields.io/badge/-ruby%20on%20rails-333333?style=flat&logo=ruby-on-rails)
+  ![Elixir](https://img.shields.io/badge/-elixir-333333?style=flat&logo=elixir)
+  ![Phoenix](https://img.shields.io/badge/-phoenix-333333?style=flat&logo=elixir)
   
   ### Frontend
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
